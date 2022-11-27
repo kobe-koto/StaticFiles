@@ -6,3 +6,4 @@ How to view our [SharePoint WebSite](https://koto3905.sharepoint.com/sites/chuxu
 
 或者，您可使用「User Name: `Guset@u.koto.cc` | Password: `Password1`」進行登錄。
 
+![MoeCounter](https://counter.koto.cc/?type=MoeCounter&theme=rule34&value=hit)
