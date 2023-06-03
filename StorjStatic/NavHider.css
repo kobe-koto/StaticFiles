@@ -1,0 +1,9 @@
+nav.navbar {
+    display: none;
+}
+.container-lg .row .col {
+    padding: 15px;
+}
+.container-lg .row .col .card.directory {
+    margin: 0 !important;
+}
