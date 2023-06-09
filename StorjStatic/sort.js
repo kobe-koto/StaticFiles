@@ -29,8 +29,16 @@ addEventListener("DOMContentLoaded", function () {
             }
         }
         
-        Dirs.sort();
-        Files.sort();
+        Dirs.sort(
+            function (a, b) {
+                return a.localeCompare(b);
+            }
+        );
+        Files.sort(
+            function (a, b) {
+                return a.localeCompare(b);
+            }
+        );
         
         let DirElements = [];
         for ( let i = 0; i < Dirs.length; i++ ) {
